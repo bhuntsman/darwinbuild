@@ -3536,6 +3536,10 @@
 				"INSTALL_PATH[sdk=iphonesimulator*]" = "$(SDKROOT)$(DATDIR)/darwinbuild";
 				LD_DYLIB_INSTALL_NAME = "$(DATDIR)/darwinbuild/darwintrace.dylib";
 				PRODUCT_NAME = darwintrace;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Wno-expansion-to-defined",
+				);
 			};
 			name = Public;
 		};
@@ -3731,6 +3735,10 @@
 				"INSTALL_PATH[sdk=iphonesimulator*]" = "$(SDKROOT)$(DATDIR)/darwinbuild";
 				LD_DYLIB_INSTALL_NAME = "$(DATDIR)/darwinbuild/darwintrace.dylib";
 				PRODUCT_NAME = darwintrace;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Wno-expansion-to-defined",
+				);
 			};
 			name = Debug;
 		};
@@ -3742,6 +3750,10 @@
 				"INSTALL_PATH[sdk=iphonesimulator*]" = "$(SDKROOT)$(DATDIR)/darwinbuild";
 				LD_DYLIB_INSTALL_NAME = "$(DATDIR)/darwinbuild/darwintrace.dylib";
 				PRODUCT_NAME = darwintrace;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Wno-expansion-to-defined",
+				);
 			};
 			name = Release;
 		};
