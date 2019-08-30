@@ -80,6 +80,13 @@ static pid_t darwintrace_pid = -1;
 static char *darwintrace_redirect = NULL; 
 static char *darwintrace_buildroot = NULL;
 static const char *darwintrace_exceptions[] = {
+  "/Applications/Xcode.app/Contents/Developer/Library/Private",
+  "/Applications/Xcode.app/Developer/Library/Frameworks",
+  "/Applications/Xcode.app/Developer/usr/bin/../../Library/Private",
+  "/Applications/Xcode.app/Developer/usr/bin/../../Library/Frameworks",
+  "/Applications/Xcode.app/Developer/Library/Xcode",
+  "/Applications/Xcode.app/Developer/Platforms/",
+  "/Applications/Xcode.app/Developer/usr/bin/xcode",
   "/Developer/Library/Private",
   "/Developer/Library/Frameworks",
   "/Developer/usr/bin/../../Library/Private",
