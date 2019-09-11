@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SUGalaCarnival15C50</string>
+	<string>15C50</string>
 	<key>inherits</key>
-	<string>SUGalaBash15B42</string>
+	<string>15B42</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.11.2</string>
+	<key>darwin</key>
+	<string>Darwin 15.2</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

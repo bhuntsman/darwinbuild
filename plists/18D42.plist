@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>macOSLibertyD18D42</string>
+	<string>18D42</string>
 	<key>inherits</key>
-	<string>macOSLibertyC18C54</string>
+	<string>18C54</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.14.3</string>
+	<key>darwin</key>
+	<string>Darwin 18.3</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SUZinDisco12D78</string>
+	<string>12D78</string>
 	<key>inherits</key>
-	<string>SUZinCalypso12C54</string>
+	<string>12C54</string>
+	<key>darwin</key>
+	<string>Darwin 12.3</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.8.3</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

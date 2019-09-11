@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SUFujiCascade16C67</string>
+	<string>16C67</string>
 	<key>inherits</key>
-	<string>SUFujiAcker16B2659</string>
+	<string>16B2659</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.12.2</string>
+	<key>darwin</key>
+	<string>Darwin 16.2</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

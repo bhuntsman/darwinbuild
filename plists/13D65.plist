@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SUCabDune13D65</string>
+	<string>13D65</string>
 	<key>inherits</key>
-	<string>SUCabCarve13C64</string>
+	<string>13C64</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.9.3</string>
+	<key>darwin</key>
+	<string>Darwin 13.3</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

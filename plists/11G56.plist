@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SULionGodfather11G56</string>
+	<string>11G56</string>
 	<key>inherits</key>
-	<string>SULionEmir11E53</string>
+	<string>11E53</string>
+	<key>darwin</key>
+	<string>Darwin 11.5</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.7.5</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

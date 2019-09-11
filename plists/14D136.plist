@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SUSyrahDome14D136</string>
+	<string>14D136</string>
 	<key>inherits</key>
-	<string>SUSyrahCapitan14C109</string>
+	<string>14C109</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.10.3</string>
+	<key>darwin</key>
+	<string>Darwin 14.3</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

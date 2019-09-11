@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>SUFujiGrizzly16G29</string>
+	<string>16G29</string>
 	<key>inherits</key>
-	<string>SUFujiFletcher16F73</string>
+	<string>16F73</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.12.6</string>
+	<key>darwin</key>
+	<string>Darwin 16.6</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>

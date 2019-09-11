@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<string>LoboFox17F77</string>
+	<string>17F77</string>
 	<key>inherits</key>
-	<string>LoboElk17E199</string>
+	<string>17E199</string>
+	<key>macosx</key>
+	<string>Mac OS X 10.13.5</string>
+	<key>darwin</key>
+	<string>Darwin 17.5</string>
 	<key>projects</key>
 	<dict>
 		<key>AppleFileSystemDriver</key>
